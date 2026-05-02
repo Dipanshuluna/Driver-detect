@@ -1,4 +1,4 @@
-# 🚗 Driver Drowsiness Detection System
+#  Driver Drowsiness Detection System
 
 A real-time driver monitoring system that detects fatigue based on eye behavior and triggers a **beep alert** to prevent potential accidents.
 
@@ -10,8 +10,8 @@ This project uses computer vision techniques to monitor eye movement through a w
 
 If drowsiness is detected:
 
-* ⚠️ "DROWSY!" is displayed on screen
-* 🔊 A continuous beep sound is triggered until the driver becomes alert
+*  "DROWSY!" is displayed on screen
+*  A continuous beep sound is triggered until the driver becomes alert
 
 ---
 
@@ -26,7 +26,7 @@ If drowsiness is detected:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Python
 * OpenCV
@@ -37,7 +37,7 @@ If drowsiness is detected:
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. Capture video using webcam
 2. Detect face and extract facial landmarks
@@ -51,7 +51,7 @@ If drowsiness is detected:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 pip install opencv-python mediapipe numpy scipy pygame
@@ -60,7 +60,7 @@ python main.py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 project/
@@ -73,7 +73,7 @@ project/
 
 ---
 
-## 📌 Use Cases
+##  Use Cases
 
 * Driver safety systems
 * Smart vehicle monitoring
@@ -82,7 +82,7 @@ project/
 
 ---
 
-## 🤝 Team
+##  Team
 
 * Akshiti M
 * Himanshu
@@ -91,7 +91,7 @@ project/
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Yawn detection
 * Head pose detection

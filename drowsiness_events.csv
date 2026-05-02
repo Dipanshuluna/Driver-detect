@@ -1,0 +1,169 @@
+timestamp,event_type,ear,mar,head_tilt_degrees,attention_score,details
+2026-05-01 13:05:58,DROWSY,0.2265,0.2174,-6.12,53,Consecutive frame threshold reached
+2026-05-01 13:06:01,DROWSY,0.2188,0.2278,-7.92,52,Consecutive frame threshold reached
+2026-05-01 13:06:05,DROWSY,0.1641,0.1889,-2.39,46,Consecutive frame threshold reached
+2026-05-01 13:06:10,DROWSY,0.2420,0.2240,-6.50,54,Consecutive frame threshold reached
+2026-05-01 13:06:23,DROWSY,0.2456,0.1750,-4.70,55,Consecutive frame threshold reached
+2026-05-01 13:06:27,DROWSY,0.2181,0.1756,11.31,52,Consecutive frame threshold reached
+2026-05-01 13:06:31,DROWSY,0.0329,0.1785,11.41,40,Consecutive frame threshold reached
+2026-05-01 13:06:35,DROWSY,0.1800,0.1809,13.92,48,Consecutive frame threshold reached
+2026-05-01 13:06:38,DROWSY,0.2163,0.1890,12.68,52,Consecutive frame threshold reached
+2026-05-01 13:06:41,DROWSY,0.2047,0.2166,11.40,50,Consecutive frame threshold reached
+2026-05-01 13:06:50,DROWSY,0.0280,0.1747,5.39,40,Consecutive frame threshold reached
+2026-05-01 13:06:54,HEAD TILT,0.2142,0.1509,-17.24,55,Consecutive frame threshold reached
+2026-05-01 13:06:54,DROWSY,0.2164,0.1574,-15.65,31,Consecutive frame threshold reached
+2026-05-01 13:07:02,DROWSY,0.1089,0.1609,-35.94,11,Consecutive frame threshold reached
+2026-05-01 13:07:02,HEAD TILT,0.1089,0.1609,-35.94,11,Consecutive frame threshold reached
+2026-05-01 13:07:05,DROWSY,0.2150,0.1505,-35.94,22,Consecutive frame threshold reached
+2026-05-01 13:07:05,HEAD TILT,0.2148,0.1520,-35.47,21,Consecutive frame threshold reached
+2026-05-01 13:07:08,DROWSY,0.2059,0.2044,-36.25,21,Consecutive frame threshold reached
+2026-05-01 13:07:08,HEAD TILT,0.2099,0.2079,-35.84,21,Consecutive frame threshold reached
+2026-05-01 13:07:21,HEAD TILT,0.2093,0.2363,22.46,56,Consecutive frame threshold reached
+2026-05-01 13:07:22,DROWSY,0.2337,0.2456,22.74,38,Consecutive frame threshold reached
+2026-05-01 13:07:32,HEAD TILT,0.2518,0.1901,-17.63,79,Consecutive frame threshold reached
+2026-05-01 13:07:35,HEAD TILT,0.1219,0.2011,27.67,20,Consecutive frame threshold reached
+2026-05-01 13:07:35,DROWSY,0.1404,0.2078,26.84,18,Consecutive frame threshold reached
+2026-05-01 13:07:38,HEAD TILT,0.1968,0.1931,17.26,62,Consecutive frame threshold reached
+2026-05-01 13:07:41,HEAD TILT,0.3204,0.2862,25.75,75,Consecutive frame threshold reached
+2026-05-01 13:07:42,DROWSY,0.1498,0.2607,15.07,25,Consecutive frame threshold reached
+2026-05-01 13:07:45,DROWSY,0.1935,0.2171,14.57,49,Consecutive frame threshold reached
+2026-05-01 13:07:50,DROWSY,0.2309,0.1976,-10.81,53,Consecutive frame threshold reached
+2026-05-01 13:07:51,HEAD TILT,0.2955,0.1533,-23.48,76,Consecutive frame threshold reached
+2026-05-01 13:07:56,DROWSY,0.2263,0.1781,1.49,53,Consecutive frame threshold reached
+2026-05-01 13:08:01,DROWSY,0.2445,0.1917,-3.32,54,Consecutive frame threshold reached
+2026-05-01 13:08:06,DROWSY,0.2475,0.1943,-1.99,55,Consecutive frame threshold reached
+2026-05-01 13:08:12,HEAD TILT,0.0356,0.1747,-19.08,25,Consecutive frame threshold reached
+2026-05-01 13:08:12,DROWSY,0.0352,0.1746,-18.11,18,Consecutive frame threshold reached
+2026-05-01 13:08:16,DROWSY,0.2107,0.1993,-13.89,51,Consecutive frame threshold reached
+2026-05-01 13:08:21,DROWSY,0.2272,0.2612,8.70,53,Consecutive frame threshold reached
+2026-05-01 13:08:26,HEAD TILT,0.1570,0.2583,24.35,59,Consecutive frame threshold reached
+2026-05-01 13:08:29,DROWSY,0.2348,0.2128,-4.98,53,Consecutive frame threshold reached
+2026-05-01 13:08:32,DROWSY,0.1906,0.2306,-2.57,49,Consecutive frame threshold reached
+2026-05-01 13:08:35,DROWSY,0.2103,0.2129,-5.47,51,Consecutive frame threshold reached
+2026-05-01 13:08:38,DROWSY,0.2067,0.1740,-6.31,51,Consecutive frame threshold reached
+2026-05-01 13:08:41,DROWSY,0.2165,0.1758,-6.45,52,Consecutive frame threshold reached
+2026-05-01 13:08:44,DROWSY,0.2296,0.1737,-6.41,53,Consecutive frame threshold reached
+2026-05-01 13:08:47,DROWSY,0.2342,0.1771,-6.58,53,Consecutive frame threshold reached
+2026-05-01 13:08:51,DROWSY,0.1962,0.1874,0.00,50,Consecutive frame threshold reached
+2026-05-01 13:08:54,DROWSY,0.1762,0.1722,-9.30,48,Consecutive frame threshold reached
+2026-05-01 13:08:57,DROWSY,0.2049,0.1800,-6.52,50,Consecutive frame threshold reached
+2026-05-01 13:09:09,DROWSY,0.2378,0.2266,-7.87,54,Consecutive frame threshold reached
+2026-05-01 13:09:13,DROWSY,0.2033,0.1745,-7.57,50,Consecutive frame threshold reached
+2026-05-01 13:09:17,DROWSY,0.2300,0.1731,-6.80,53,Consecutive frame threshold reached
+2026-05-01 13:09:25,DROWSY,0.2494,0.1705,-5.65,55,Consecutive frame threshold reached
+2026-05-01 13:09:30,DROWSY,0.2030,0.1737,-6.41,50,Consecutive frame threshold reached
+2026-05-01 13:11:33,DROWSY,0.0359,0.1908,-37.05,13,Consecutive frame threshold reached
+2026-05-01 13:11:34,HEAD TILT,0.0381,0.1988,-32.74,11,Consecutive frame threshold reached
+2026-05-01 13:11:39,HEAD TILT,0.2476,0.1984,-16.91,38,Consecutive frame threshold reached
+2026-05-01 13:11:39,DROWSY,0.2400,0.1902,-16.43,33,Consecutive frame threshold reached
+2026-05-01 13:11:42,DROWSY,0.0987,0.1659,3.18,40,Consecutive frame threshold reached
+2026-05-01 13:11:45,DROWSY,0.1245,0.1665,4.36,42,Consecutive frame threshold reached
+2026-05-01 13:11:48,DROWSY,0.1243,0.1779,4.44,42,Consecutive frame threshold reached
+2026-05-01 13:11:56,DROWSY,0.0470,0.1754,-14.04,40,Consecutive frame threshold reached
+2026-05-01 13:11:56,HEAD TILT,0.0324,0.1587,-22.15,16,Consecutive frame threshold reached
+2026-05-01 13:12:08,DROWSY,0.0959,0.1932,-13.47,40,Consecutive frame threshold reached
+2026-05-01 13:12:09,HEAD TILT,0.3198,0.2015,-16.74,79,Consecutive frame threshold reached
+2026-05-01 13:12:14,DROWSY,0.2127,0.2222,-7.13,51,Consecutive frame threshold reached
+2026-05-01 13:12:34,HEAD TILT,0.2263,0.1768,-16.84,59,Consecutive frame threshold reached
+2026-05-01 13:12:39,HEAD TILT,0.3234,0.1728,-37.52,70,Consecutive frame threshold reached
+2026-05-01 13:12:40,DROWSY,0.2159,0.1901,-1.37,52,Consecutive frame threshold reached
+2026-05-01 13:12:43,DROWSY,0.2332,0.1826,3.21,53,Consecutive frame threshold reached
+2026-05-01 13:12:46,DROWSY,0.2391,0.2074,1.75,54,Consecutive frame threshold reached
+2026-05-01 13:12:50,DROWSY,0.2316,0.2062,2.24,53,Consecutive frame threshold reached
+2026-05-01 13:12:53,DROWSY,0.2420,0.1594,-13.10,54,Consecutive frame threshold reached
+2026-05-01 13:13:01,DROWSY,0.0639,0.1771,-16.61,38,Consecutive frame threshold reached
+2026-05-01 13:13:02,HEAD TILT,0.0748,0.1617,-23.00,16,Consecutive frame threshold reached
+2026-05-01 13:13:05,HEAD TILT,0.2818,0.2090,20.29,77,Consecutive frame threshold reached
+2026-05-01 13:13:08,HEAD TILT,0.2729,0.1838,19.71,78,Consecutive frame threshold reached
+2026-05-01 13:13:10,DROWSY,0.1723,0.1846,-11.00,47,Consecutive frame threshold reached
+2026-05-01 13:13:17,DROWSY,0.2390,0.2307,1.79,54,Consecutive frame threshold reached
+2026-05-01 13:13:19,HEAD TILT,0.0978,0.1903,-32.93,11,Consecutive frame threshold reached
+2026-05-01 13:13:20,DROWSY,0.0574,0.1903,-24.02,15,Consecutive frame threshold reached
+2026-05-01 13:13:25,DROWSY,0.1964,0.2141,-3.62,50,Consecutive frame threshold reached
+2026-05-01 13:13:27,HEAD TILT,0.1353,0.2521,18.14,33,Consecutive frame threshold reached
+2026-05-01 13:13:28,DROWSY,0.1718,0.2649,18.60,25,Consecutive frame threshold reached
+2026-05-01 13:13:31,DROWSY,0.2258,0.1990,-5.19,53,Consecutive frame threshold reached
+2026-05-01 13:13:34,HEAD TILT,0.2468,0.1755,-20.39,70,Consecutive frame threshold reached
+2026-05-01 13:13:37,HEAD TILT,0.2594,0.1953,-17.73,79,Consecutive frame threshold reached
+2026-05-01 13:13:39,DROWSY,0.2380,0.1825,-17.20,33,Consecutive frame threshold reached
+2026-05-01 13:13:40,HEAD TILT,0.2287,0.1833,-16.98,32,Consecutive frame threshold reached
+2026-05-01 13:13:42,DROWSY,0.1943,0.1728,-7.07,49,Consecutive frame threshold reached
+2026-05-01 13:13:45,DROWSY,0.2000,0.1887,-10.08,50,Consecutive frame threshold reached
+2026-05-01 13:14:28,DROWSY,0.2215,0.2116,-3.96,52,Consecutive frame threshold reached
+2026-05-01 13:14:31,DROWSY,0.2365,0.2009,-3.93,54,Consecutive frame threshold reached
+2026-05-01 13:14:37,HEAD TILT,0.3317,0.1866,21.01,77,Consecutive frame threshold reached
+2026-05-01 13:14:41,DROWSY,0.1851,0.2105,-6.24,49,Consecutive frame threshold reached
+2026-05-01 13:14:49,DROWSY,0.2140,0.2158,-7.62,51,Consecutive frame threshold reached
+2026-05-01 13:14:50,HEAD TILT,0.2649,0.1712,-21.50,77,Consecutive frame threshold reached
+2026-05-01 13:14:52,DROWSY,0.1688,0.2273,-0.85,47,Consecutive frame threshold reached
+2026-05-01 13:14:55,DROWSY,0.1994,0.1817,0.43,50,Consecutive frame threshold reached
+2026-05-01 13:15:01,DROWSY,0.0817,0.1876,-12.25,40,Consecutive frame threshold reached
+2026-05-01 13:15:01,HEAD TILT,0.1891,0.1784,-22.58,25,Consecutive frame threshold reached
+2026-05-01 13:15:04,DROWSY,0.2198,0.1832,-7.59,52,Consecutive frame threshold reached
+2026-05-01 13:15:07,DROWSY,0.1980,0.1994,-14.72,50,Consecutive frame threshold reached
+2026-05-01 13:15:10,DROWSY,0.2341,0.2051,-5.67,53,Consecutive frame threshold reached
+2026-05-01 13:15:13,DROWSY,0.2114,0.1987,-4.33,51,Consecutive frame threshold reached
+2026-05-01 13:15:16,DROWSY,0.2359,0.1786,-7.18,54,Consecutive frame threshold reached
+2026-05-01 13:15:23,DROWSY,0.2276,0.1774,2.27,53,Consecutive frame threshold reached
+2026-05-01 13:15:40,DROWSY,0.2289,0.1755,2.68,53,Consecutive frame threshold reached
+2026-05-01 13:15:45,DROWSY,0.1226,0.1965,4.76,42,Consecutive frame threshold reached
+2026-05-01 13:15:48,DROWSY,0.2161,0.2207,0.00,52,Consecutive frame threshold reached
+2026-05-01 13:15:50,HEAD TILT,0.1243,0.1575,-43.47,12,Consecutive frame threshold reached
+2026-05-01 13:15:51,DROWSY,0.1292,0.1687,-36.22,13,Consecutive frame threshold reached
+2026-05-01 13:15:55,HEAD TILT,0.2344,0.1756,24.15,54,Consecutive frame threshold reached
+2026-05-01 13:15:56,DROWSY,0.2279,0.1820,22.48,29,Consecutive frame threshold reached
+2026-05-01 13:16:01,DROWSY,0.0420,0.1746,-4.09,40,Consecutive frame threshold reached
+2026-05-01 13:16:04,DROWSY,0.2287,0.2160,-2.66,53,Consecutive frame threshold reached
+2026-05-01 13:16:08,DROWSY,0.2322,0.2023,-9.54,53,Consecutive frame threshold reached
+2026-05-01 13:16:11,DROWSY,0.2064,0.2162,-12.15,51,Consecutive frame threshold reached
+2026-05-01 13:16:14,DROWSY,0.2358,0.2044,-9.32,54,Consecutive frame threshold reached
+2026-05-01 13:16:19,DROWSY,0.2025,0.1800,-7.28,50,Consecutive frame threshold reached
+2026-05-01 13:16:23,DROWSY,0.2095,0.2015,-5.67,51,Consecutive frame threshold reached
+2026-05-01 13:16:28,HEAD TILT,0.2605,0.1965,-16.61,79,Consecutive frame threshold reached
+2026-05-01 13:16:31,DROWSY,0.2496,0.1840,20.67,37,Consecutive frame threshold reached
+2026-05-01 13:16:32,HEAD TILT,0.2434,0.1792,19.18,32,Consecutive frame threshold reached
+2026-05-01 13:16:39,HEAD TILT,0.3001,0.1673,-18.73,78,Consecutive frame threshold reached
+2026-05-01 13:16:42,HEAD TILT,0.3123,0.1698,-20.94,77,Consecutive frame threshold reached
+2026-05-01 13:16:45,HEAD TILT,0.3185,0.1826,-20.34,77,Consecutive frame threshold reached
+2026-05-01 13:16:48,HEAD TILT,0.2536,0.1732,-17.41,79,Consecutive frame threshold reached
+2026-05-01 13:16:51,HEAD TILT,0.2713,0.1585,-16.26,79,Consecutive frame threshold reached
+2026-05-01 13:16:54,HEAD TILT,0.2569,0.1572,-15.69,80,Consecutive frame threshold reached
+2026-05-01 13:17:17,DROWSY,0.1919,0.2011,2.73,49,Consecutive frame threshold reached
+2026-05-01 13:17:20,DROWSY,0.2063,0.2147,-6.10,51,Consecutive frame threshold reached
+2026-05-01 13:17:23,DROWSY,0.2172,0.2303,-5.19,52,Consecutive frame threshold reached
+2026-05-01 13:17:36,DROWSY,0.2486,0.1711,-12.38,55,Consecutive frame threshold reached
+2026-05-01 13:17:50,DROWSY,0.2299,0.1684,-10.70,53,Consecutive frame threshold reached
+2026-05-01 13:18:07,DROWSY,0.0969,0.1797,-6.10,40,Consecutive frame threshold reached
+2026-05-01 13:18:11,HEAD TILT,0.2530,0.2089,19.59,78,Consecutive frame threshold reached
+2026-05-01 13:18:14,HEAD TILT,0.2521,0.1834,-32.68,71,Consecutive frame threshold reached
+2026-05-01 13:18:17,DROWSY,0.2180,0.1635,-11.39,52,Consecutive frame threshold reached
+2026-05-01 13:18:26,DROWSY,0.2159,0.1753,-3.21,52,Consecutive frame threshold reached
+2026-05-01 13:18:30,DROWSY,0.2284,0.1795,-4.87,53,Consecutive frame threshold reached
+2026-05-01 13:18:33,DROWSY,0.2263,0.1749,-3.99,53,Consecutive frame threshold reached
+2026-05-01 13:18:36,DROWSY,0.2398,0.1898,-4.57,54,Consecutive frame threshold reached
+2026-05-01 15:00:16,DROWSY,0.1147,0.1789,-4.56,41,Consecutive frame threshold reached
+2026-05-01 15:00:19,DROWSY,0.0906,0.1885,1.71,40,Consecutive frame threshold reached
+2026-05-01 15:00:22,DROWSY,0.1050,0.1778,0.00,41,Consecutive frame threshold reached
+2026-05-01 15:00:29,HEAD TILT,0.2452,0.1705,-16.78,76,Consecutive frame threshold reached
+2026-05-01 15:00:32,DROWSY,0.0682,0.1803,-28.90,17,Consecutive frame threshold reached
+2026-05-01 15:00:32,HEAD TILT,0.0753,0.1676,-30.43,12,Consecutive frame threshold reached
+2026-05-01 15:00:35,DROWSY,0.2402,0.2008,7.78,54,Consecutive frame threshold reached
+2026-05-01 15:00:38,DROWSY,0.1963,0.1945,30.59,22,Consecutive frame threshold reached
+2026-05-01 15:00:38,HEAD TILT,0.1963,0.1945,30.59,22,Consecutive frame threshold reached
+2026-05-01 15:00:41,HEAD TILT,0.2911,0.2001,-18.64,78,Consecutive frame threshold reached
+2026-05-01 15:00:43,DROWSY,0.2341,0.2040,-5.38,53,Consecutive frame threshold reached
+2026-05-01 15:00:47,DROWSY,0.2162,0.1760,-2.59,52,Consecutive frame threshold reached
+2026-05-01 18:59:21,HEAD TILT,0.2234,0.1638,44.08,40,Consecutive frame threshold reached
+2026-05-01 18:59:26,HEAD TILT,0.2297,0.1704,36.09,63,Consecutive frame threshold reached
+2026-05-01 18:59:30,DROWSY,0.0445,0.1666,4.14,40,Consecutive frame threshold reached
+2026-05-01 18:59:35,DROWSY,0.0586,0.1734,3.50,40,Consecutive frame threshold reached
+2026-05-01 18:59:38,DROWSY,0.0804,0.1739,8.18,40,Consecutive frame threshold reached
+2026-05-01 18:59:42,HEAD TILT,0.3627,0.1967,19.72,78,Consecutive frame threshold reached
+2026-05-01 18:59:44,DROWSY,0.1043,0.1752,12.53,40,Consecutive frame threshold reached
+2026-05-01 18:59:51,DROWSY,0.2393,0.1812,6.46,54,Consecutive frame threshold reached
+2026-05-01 19:00:03,DROWSY,0.0622,0.1821,7.85,40,Consecutive frame threshold reached
+2026-05-01 19:00:09,DROWSY,0.2118,0.1795,11.64,51,Consecutive frame threshold reached
+2026-05-01 19:00:14,DROWSY,0.2457,0.1729,7.94,55,Consecutive frame threshold reached
+2026-05-01 19:00:21,DROWSY,0.1834,0.2056,10.92,48,Consecutive frame threshold reached
+2026-05-01 19:00:29,DROWSY,0.1843,0.1718,1.81,48,Consecutive frame threshold reached
+2026-05-01 19:00:41,DROWSY,0.2141,0.1557,0.00,51,Consecutive frame threshold reached

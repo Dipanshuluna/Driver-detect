@@ -84,7 +84,7 @@ project/
 
 ##  Team
 
-* Akshiti M
+* Akshiti 
 * Himanshu
 * Subir
 * Dipanshu
